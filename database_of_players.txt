@@ -1,0 +1,11 @@
+database of players = {
+"Salah": {"name": "Mo Salah", "games_2018": 38, "goals_2018": 22},
+"Kane": {"name": "Harry Kane", "games_2018": 28, "goals_2018": 17},
+"Aguero": {"name": "Sergio Aguero", "games_2018": 33, "goals_2018": 21},
+"Lukaku": {"name": "Romelu Lukaku", "games_2018": 32, "goals_2018": 12},
+"Aubameyang": {"name": "Pierre-Emerick Aubameyang", "games_2018": 26, "goals_2018": 17},
+"Mane": {"name": "Sadio Mané", "games_2018": 36, "goals_2018": 22},
+"Vardy": {"name": "Jamie Vardy", "games_2018": 34, "goals_2018": 18},
+"Sterling": {"name": "Raheem Sterling", "games_2018": 34, "goals_2018": 17},
+"Hazard": {"name": "Eden Hazard", "games_2018": 37, "goals_2018": 16}
+}
